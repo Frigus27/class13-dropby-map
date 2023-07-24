@@ -103,7 +103,7 @@ function createCard(studentDataPiece) {
 
     // Compute the data ready to fill in
     fillName = studentName;
-    fillIcon = "resources/icon/unknown.jpg";
+    fillIcon = "resources/icon/avatar/" + studentName + ".jpg";
     fillUnivName = univName;
     fillCityName = "（）";
     if (isMetropolis) {
@@ -241,8 +241,6 @@ function showCardsByProvince(province) {
         }
     }
 }
-
-// TODO: finish the "sort by city" function
 
 function createCityInfoCard(city) {
     univList = []

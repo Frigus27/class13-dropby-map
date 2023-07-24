@@ -1,10 +1,9 @@
-@font-face {
-    font-family: 'fzlth';
-    src: url('./font/fzltcxh.ttf');
+body {
+    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 
-body {
-    font-family: 'fzlth', 'Courier New', Courier, monospace;
+h1,h2,h3,h4 {
+    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei Light", "WenQuanYi Micro Hei", sans-serif;
 }
 
 .pathMapArea {
@@ -144,8 +143,8 @@ body {
 
 
 .img-student-card {
-    height: 32px;
-    width: 32px;
+    height: 48px;
+    width: 48px;
     border-radius: 50%;
     vertical-align: middle;
     display: inline-block;
