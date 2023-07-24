@@ -1,0 +1,2044 @@
+{
+    "ByStudent": [
+        {
+            "Index": 1,
+            "Name": "陈禹铭",
+            "University": {
+                "Index": 1,
+                "Name": "北京大学",
+                "Code": "4111010001",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "陈禹铭",
+                        "Major": "电子信息"
+                    },
+                    {
+                        "Name": "汤智荃",
+                        "Major": "经济学"
+                    },
+                    {
+                        "Name": "陈润材",
+                        "Major": "力学类"
+                    },
+                    {
+                        "Name": "梁子恒",
+                        "Major": "理科试验班类"
+                    }
+                ]
+            },
+            "Major": "电子信息"
+        },
+        {
+            "Index": 2,
+            "Name": "尹浩安",
+            "University": {
+                "Index": 349,
+                "Name": "复旦大学",
+                "Code": "4131010246",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "尹浩安",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "张弛",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "黄卓立",
+                        "Major": "微电子科学与工程（集成电路领军人才班）"
+                    },
+                    {
+                        "Name": "梁圣颂",
+                        "Major": "自然科学试验班"
+                    },
+                    {
+                        "Name": "胡舜涵",
+                        "Major": "自然科学试验班"
+                    }
+                ]
+            },
+            "Major": "工科试验班"
+        },
+        {
+            "Index": 3,
+            "Name": "张弛",
+            "University": {
+                "Index": 349,
+                "Name": "复旦大学",
+                "Code": "4131010246",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "尹浩安",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "张弛",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "黄卓立",
+                        "Major": "微电子科学与工程（集成电路领军人才班）"
+                    },
+                    {
+                        "Name": "梁圣颂",
+                        "Major": "自然科学试验班"
+                    },
+                    {
+                        "Name": "胡舜涵",
+                        "Major": "自然科学试验班"
+                    }
+                ]
+            },
+            "Major": "工科试验班"
+        },
+        {
+            "Index": 4,
+            "Name": "罗晨蕾",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科实验班"
+        },
+        {
+            "Index": 5,
+            "Name": "吴佳坤",
+            "University": {
+                "Index": 3,
+                "Name": "清华大学",
+                "Code": "4111010003",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "吴佳坤",
+                        "Major": "机械"
+                    },
+                    {
+                        "Name": "王梓衡",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "刘海天",
+                        "Major": "计算机类"
+                    }
+                ]
+            },
+            "Major": "机械"
+        },
+        {
+            "Index": 6,
+            "Name": "金浩源",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "电子信息类（密西根学院）"
+        },
+        {
+            "Index": 7,
+            "Name": "黄卓立",
+            "University": {
+                "Index": 349,
+                "Name": "复旦大学",
+                "Code": "4131010246",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "尹浩安",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "张弛",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "黄卓立",
+                        "Major": "微电子科学与工程（集成电路领军人才班）"
+                    },
+                    {
+                        "Name": "梁圣颂",
+                        "Major": "自然科学试验班"
+                    },
+                    {
+                        "Name": "胡舜涵",
+                        "Major": "自然科学试验班"
+                    }
+                ]
+            },
+            "Major": "微电子科学与工程（集成电路领军人才班）"
+        },
+        {
+            "Index": 8,
+            "Name": "梁圣颂",
+            "University": {
+                "Index": 349,
+                "Name": "复旦大学",
+                "Code": "4131010246",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "尹浩安",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "张弛",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "黄卓立",
+                        "Major": "微电子科学与工程（集成电路领军人才班）"
+                    },
+                    {
+                        "Name": "梁圣颂",
+                        "Major": "自然科学试验班"
+                    },
+                    {
+                        "Name": "胡舜涵",
+                        "Major": "自然科学试验班"
+                    }
+                ]
+            },
+            "Major": "自然科学试验班"
+        },
+        {
+            "Index": 9,
+            "Name": "聂喆",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "电子信息类（密西根学院）"
+        },
+        {
+            "Index": 10,
+            "Name": "胡舜涵",
+            "University": {
+                "Index": 349,
+                "Name": "复旦大学",
+                "Code": "4131010246",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "尹浩安",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "张弛",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "黄卓立",
+                        "Major": "微电子科学与工程（集成电路领军人才班）"
+                    },
+                    {
+                        "Name": "梁圣颂",
+                        "Major": "自然科学试验班"
+                    },
+                    {
+                        "Name": "胡舜涵",
+                        "Major": "自然科学试验班"
+                    }
+                ]
+            },
+            "Major": "自然科学试验班"
+        },
+        {
+            "Index": 11,
+            "Name": "卢泰宇",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科实验班"
+        },
+        {
+            "Index": 12,
+            "Name": "张文珏",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "电子信息类（密西根学院）"
+        },
+        {
+            "Index": 13,
+            "Name": "吴禹曾国",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科实验班"
+        },
+        {
+            "Index": 14,
+            "Name": "王梓衡",
+            "University": {
+                "Index": 3,
+                "Name": "清华大学",
+                "Code": "4111010003",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "吴佳坤",
+                        "Major": "机械"
+                    },
+                    {
+                        "Name": "王梓衡",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "刘海天",
+                        "Major": "计算机类"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 15,
+            "Name": "邓少儒",
+            "University": {
+                "Index": 6,
+                "Name": "北京航空航天大学",
+                "Code": "4111010006",
+                "Affiliation": "工业和信息化部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "邓少儒",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "陈立昆",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "任自祺",
+                        "Major": "数学与应用数学"
+                    },
+                    {
+                        "Name": "范耀炜",
+                        "Major": "空天力学"
+                    }
+                ]
+            },
+            "Major": "工科试验班"
+        },
+        {
+            "Index": 16,
+            "Name": "刘述轩",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "电子信息类（密西根学院）"
+        },
+        {
+            "Index": 17,
+            "Name": "陈立昆",
+            "University": {
+                "Index": 6,
+                "Name": "北京航空航天大学",
+                "Code": "4111010006",
+                "Affiliation": "工业和信息化部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "邓少儒",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "陈立昆",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "任自祺",
+                        "Major": "数学与应用数学"
+                    },
+                    {
+                        "Name": "范耀炜",
+                        "Major": "空天力学"
+                    }
+                ]
+            },
+            "Major": "工科试验班"
+        },
+        {
+            "Index": 18,
+            "Name": "叶若愚",
+            "University": {
+                "Index": 13,
+                "Name": "北京邮电大学",
+                "Code": "4111010013",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "叶若愚",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "敖辰",
+                        "Major": "（元班）电子信息类"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 19,
+            "Name": "陈雅婷",
+            "University": {
+                "Index": 2,
+                "Name": "中国人民大学",
+                "Code": "4111010002",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "陈雅婷",
+                        "Major": "工商管理类"
+                    }
+                ]
+            },
+            "Major": "工商管理类"
+        },
+        {
+            "Index": 20,
+            "Name": "吴子阳",
+            "University": {
+                "Index": 785,
+                "Name": "华中科技大学",
+                "Code": "4142010487",
+                "Affiliation": "教育部",
+                "Province": "湖北省",
+                "City": "武汉市",
+                "Students": [
+                    {
+                        "Name": "吴子阳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "杨子恒",
+                        "Major": "机械类"
+                    },
+                    {
+                        "Name": "杨凯文",
+                        "Major": "微电子科学与工程"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 21,
+            "Name": "幸芷仪",
+            "University": {
+                "Index": 24,
+                "Name": "北京师范大学",
+                "Code": "4111010027",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "幸芷仪",
+                        "Major": "生物科学"
+                    }
+                ]
+            },
+            "Major": "生物科学"
+        },
+        {
+            "Index": 22,
+            "Name": "任自祺",
+            "University": {
+                "Index": 6,
+                "Name": "北京航空航天大学",
+                "Code": "4111010006",
+                "Affiliation": "工业和信息化部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "邓少儒",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "陈立昆",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "任自祺",
+                        "Major": "数学与应用数学"
+                    },
+                    {
+                        "Name": "范耀炜",
+                        "Major": "空天力学"
+                    }
+                ]
+            },
+            "Major": "数学与应用数学"
+        },
+        {
+            "Index": 23,
+            "Name": "汤智荃",
+            "University": {
+                "Index": 1,
+                "Name": "北京大学",
+                "Code": "4111010001",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "陈禹铭",
+                        "Major": "电子信息"
+                    },
+                    {
+                        "Name": "汤智荃",
+                        "Major": "经济学"
+                    },
+                    {
+                        "Name": "陈润材",
+                        "Major": "力学类"
+                    },
+                    {
+                        "Name": "梁子恒",
+                        "Major": "理科试验班类"
+                    }
+                ]
+            },
+            "Major": "经济学"
+        },
+        {
+            "Index": 24,
+            "Name": "李明峰",
+            "University": {
+                "Index": 1271,
+                "Name": "哈尔滨工业大学（深圳）",
+                "Code": "?",
+                "Affiliation": "广东省",
+                "Province": "广东省",
+                "City": "深圳市",
+                "Students": [
+                    {
+                        "Name": "李明峰",
+                        "Major": "工科试验班（计算机类）"
+                    },
+                    {
+                        "Name": "粟雨欣",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "徐祖斌",
+                        "Major": "工科试验班-计算机电子通信类"
+                    },
+                    {
+                        "Name": "周坤烨",
+                        "Major": "建筑学"
+                    }
+                ]
+            },
+            "Major": "工科试验班（计算机类）"
+        },
+        {
+            "Index": 25,
+            "Name": "王华洋",
+            "University": {
+                "Index": 784,
+                "Name": "武汉大学",
+                "Code": "4142010486",
+                "Affiliation": "教育部",
+                "Province": "湖北省",
+                "City": "武汉市",
+                "Students": [
+                    {
+                        "Name": "王华洋",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "电子信息"
+        },
+        {
+            "Index": 26,
+            "Name": "唐一菲",
+            "University": {
+                "Index": 467,
+                "Name": "浙江大学",
+                "Code": "4133010335",
+                "Affiliation": "教育部",
+                "Province": "浙江省",
+                "City": "杭州市",
+                "Students": [
+                    {
+                        "Name": "唐一菲",
+                        "Major": "医学院"
+                    }
+                ]
+            },
+            "Major": "医学院"
+        },
+        {
+            "Index": 27,
+            "Name": "粟雨欣",
+            "University": {
+                "Index": 1271,
+                "Name": "哈尔滨工业大学（深圳）",
+                "Code": "?",
+                "Affiliation": "广东省",
+                "Province": "广东省",
+                "City": "深圳市",
+                "Students": [
+                    {
+                        "Name": "李明峰",
+                        "Major": "工科试验班（计算机类）"
+                    },
+                    {
+                        "Name": "粟雨欣",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "徐祖斌",
+                        "Major": "工科试验班-计算机电子通信类"
+                    },
+                    {
+                        "Name": "周坤烨",
+                        "Major": "建筑学"
+                    }
+                ]
+            },
+            "Major": "工科试验班"
+        },
+        {
+            "Index": 28,
+            "Name": "祝毓岚",
+            "University": {
+                "Index": 1043,
+                "Name": "四川大学",
+                "Code": "4151010610",
+                "Affiliation": "教育部",
+                "Province": "四川省",
+                "City": "成都市",
+                "Students": [
+                    {
+                        "Name": "祝毓岚",
+                        "Major": "口腔医学"
+                    }
+                ]
+            },
+            "Major": "口腔医学"
+        },
+        {
+            "Index": 29,
+            "Name": "敖辰",
+            "University": {
+                "Index": 13,
+                "Name": "北京邮电大学",
+                "Code": "4111010013",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "叶若愚",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "敖辰",
+                        "Major": "（元班）电子信息类"
+                    }
+                ]
+            },
+            "Major": "（元班）电子信息类"
+        },
+        {
+            "Index": 30,
+            "Name": "杨子恒",
+            "University": {
+                "Index": 785,
+                "Name": "华中科技大学",
+                "Code": "4142010487",
+                "Affiliation": "教育部",
+                "Province": "湖北省",
+                "City": "武汉市",
+                "Students": [
+                    {
+                        "Name": "吴子阳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "杨子恒",
+                        "Major": "机械类"
+                    },
+                    {
+                        "Name": "杨凯文",
+                        "Major": "微电子科学与工程"
+                    }
+                ]
+            },
+            "Major": "机械类"
+        },
+        {
+            "Index": 31,
+            "Name": "徐祖斌",
+            "University": {
+                "Index": 1271,
+                "Name": "哈尔滨工业大学（深圳）",
+                "Code": "?",
+                "Affiliation": "广东省",
+                "Province": "广东省",
+                "City": "深圳市",
+                "Students": [
+                    {
+                        "Name": "李明峰",
+                        "Major": "工科试验班（计算机类）"
+                    },
+                    {
+                        "Name": "粟雨欣",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "徐祖斌",
+                        "Major": "工科试验班-计算机电子通信类"
+                    },
+                    {
+                        "Name": "周坤烨",
+                        "Major": "建筑学"
+                    }
+                ]
+            },
+            "Major": "工科试验班-计算机电子通信类"
+        },
+        {
+            "Index": 32,
+            "Name": "陈润材",
+            "University": {
+                "Index": 1,
+                "Name": "北京大学",
+                "Code": "4111010001",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "陈禹铭",
+                        "Major": "电子信息"
+                    },
+                    {
+                        "Name": "汤智荃",
+                        "Major": "经济学"
+                    },
+                    {
+                        "Name": "陈润材",
+                        "Major": "力学类"
+                    },
+                    {
+                        "Name": "梁子恒",
+                        "Major": "理科试验班类"
+                    }
+                ]
+            },
+            "Major": "力学类"
+        },
+        {
+            "Index": 33,
+            "Name": "范耀炜",
+            "University": {
+                "Index": 6,
+                "Name": "北京航空航天大学",
+                "Code": "4111010006",
+                "Affiliation": "工业和信息化部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "邓少儒",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "陈立昆",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "任自祺",
+                        "Major": "数学与应用数学"
+                    },
+                    {
+                        "Name": "范耀炜",
+                        "Major": "空天力学"
+                    }
+                ]
+            },
+            "Major": "空天力学"
+        },
+        {
+            "Index": 34,
+            "Name": "李树",
+            "University": {
+                "Index": 389,
+                "Name": "南京大学",
+                "Code": "4132010284",
+                "Affiliation": "教育部",
+                "Province": "江苏省",
+                "City": "南京市",
+                "Students": [
+                    {
+                        "Name": "李树",
+                        "Major": "软件工程"
+                    }
+                ]
+            },
+            "Major": "软件工程"
+        },
+        {
+            "Index": 35,
+            "Name": "刘海天",
+            "University": {
+                "Index": 3,
+                "Name": "清华大学",
+                "Code": "4111010003",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "吴佳坤",
+                        "Major": "机械"
+                    },
+                    {
+                        "Name": "王梓衡",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "刘海天",
+                        "Major": "计算机类"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 36,
+            "Name": "刘行远",
+            "University": {
+                "Index": 351,
+                "Name": "上海交通大学",
+                "Code": "4131010248",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "罗晨蕾",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "金浩源",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "聂喆",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "卢泰宇",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "张文珏",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "吴禹曾国",
+                        "Major": "工科实验班"
+                    },
+                    {
+                        "Name": "刘述轩",
+                        "Major": "电子信息类（密西根学院）"
+                    },
+                    {
+                        "Name": "刘行远",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科试验班（信息类）"
+        },
+        {
+            "Index": 37,
+            "Name": "万耀文",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 38,
+            "Name": "余文琪",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 39,
+            "Name": "周坤烨",
+            "University": {
+                "Index": 1271,
+                "Name": "哈尔滨工业大学（深圳）",
+                "Code": "?",
+                "Affiliation": "广东省",
+                "Province": "广东省",
+                "City": "深圳市",
+                "Students": [
+                    {
+                        "Name": "李明峰",
+                        "Major": "工科试验班（计算机类）"
+                    },
+                    {
+                        "Name": "粟雨欣",
+                        "Major": "工科试验班"
+                    },
+                    {
+                        "Name": "徐祖斌",
+                        "Major": "工科试验班-计算机电子通信类"
+                    },
+                    {
+                        "Name": "周坤烨",
+                        "Major": "建筑学"
+                    }
+                ]
+            },
+            "Major": "建筑学"
+        },
+        {
+            "Index": 40,
+            "Name": "孟繁蓉",
+            "University": {
+                "Index": 1162,
+                "Name": "西安交通大学",
+                "Code": "4161010698",
+                "Affiliation": "教育部",
+                "Province": "陕西省",
+                "City": "西安市",
+                "Students": [
+                    {
+                        "Name": "孟繁蓉",
+                        "Major": "工科实验班"
+                    }
+                ]
+            },
+            "Major": "工科实验班"
+        },
+        {
+            "Index": 41,
+            "Name": "庞舒文",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "临床医学"
+        },
+        {
+            "Index": 42,
+            "Name": "郑睿敏",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "物理学类"
+        },
+        {
+            "Index": 43,
+            "Name": "苏子淳",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "计算机类"
+        },
+        {
+            "Index": 44,
+            "Name": "杨凯文",
+            "University": {
+                "Index": 785,
+                "Name": "华中科技大学",
+                "Code": "4142010487",
+                "Affiliation": "教育部",
+                "Province": "湖北省",
+                "City": "武汉市",
+                "Students": [
+                    {
+                        "Name": "吴子阳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "杨子恒",
+                        "Major": "机械类"
+                    },
+                    {
+                        "Name": "杨凯文",
+                        "Major": "微电子科学与工程"
+                    }
+                ]
+            },
+            "Major": "微电子科学与工程"
+        },
+        {
+            "Index": 45,
+            "Name": "梁子恒",
+            "University": {
+                "Index": 1,
+                "Name": "北京大学",
+                "Code": "4111010001",
+                "Affiliation": "教育部",
+                "Province": "北京市",
+                "City": "北京市",
+                "Students": [
+                    {
+                        "Name": "陈禹铭",
+                        "Major": "电子信息"
+                    },
+                    {
+                        "Name": "汤智荃",
+                        "Major": "经济学"
+                    },
+                    {
+                        "Name": "陈润材",
+                        "Major": "力学类"
+                    },
+                    {
+                        "Name": "梁子恒",
+                        "Major": "理科试验班类"
+                    }
+                ]
+            },
+            "Major": "理科试验班类"
+        },
+        {
+            "Index": 46,
+            "Name": "苏丞",
+            "University": {
+                "Index": 941,
+                "Name": "南方医科大学",
+                "Code": "4144012121",
+                "Affiliation": "广东省",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "苏丞",
+                        "Major": "临床医学"
+                    }
+                ]
+            },
+            "Major": "临床医学"
+        },
+        {
+            "Index": 47,
+            "Name": "许乐阳",
+            "University": {
+                "Index": 904,
+                "Name": "中山大学",
+                "Code": "4144010558",
+                "Affiliation": "教育部",
+                "Province": "广东省",
+                "City": "广州市",
+                "Students": [
+                    {
+                        "Name": "万耀文",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "余文琪",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "庞舒文",
+                        "Major": "临床医学"
+                    },
+                    {
+                        "Name": "郑睿敏",
+                        "Major": "物理学类"
+                    },
+                    {
+                        "Name": "苏子淳",
+                        "Major": "计算机类"
+                    },
+                    {
+                        "Name": "许乐阳",
+                        "Major": "电子信息"
+                    }
+                ]
+            },
+            "Major": "电子信息"
+        },
+        {
+            "Index": 48,
+            "Name": "邢其亮",
+            "University": {
+                "Index": 968,
+                "Name": "香港中文大学（深圳）",
+                "Code": "4144016407",
+                "Affiliation": "广东省教育厅",
+                "Province": "广东省",
+                "City": "深圳市",
+                "Students": [
+                    {
+                        "Name": "邢其亮",
+                        "Major": "计算机科学与技术"
+                    }
+                ]
+            },
+            "Major": "计算机科学与技术"
+        },
+        {
+            "Index": 49,
+            "Name": "李思佳",
+            "University": {
+                "Index": 350,
+                "Name": "同济大学",
+                "Code": "4131010247",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "李思佳",
+                        "Major": "工科实验班（智能化制造与先进材料类）"
+                    },
+                    {
+                        "Name": "张锴元",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科实验班（智能化制造与先进材料类）"
+        },
+        {
+            "Index": 50,
+            "Name": "骆沛荣",
+            "University": {
+                "Index": 528,
+                "Name": "中国科学技术大学",
+                "Code": "4134010358",
+                "Affiliation": "中国科学院",
+                "Province": "安徽省",
+                "City": "合肥市",
+                "Students": [
+                    {
+                        "Name": "骆沛荣",
+                        "Major": "数学系"
+                    }
+                ]
+            },
+            "Major": "数学系"
+        },
+        {
+            "Index": 51,
+            "Name": "周子潇",
+            "University": {
+                "Index": 855,
+                "Name": "中南大学",
+                "Code": "4143010533",
+                "Affiliation": "教育部",
+                "Province": "湖南省",
+                "City": "长沙市",
+                "Students": [
+                    {
+                        "Name": "周子潇",
+                        "Major": "（湘雅医学院）临床医学"
+                    }
+                ]
+            },
+            "Major": "（湘雅医学院）临床医学"
+        },
+        {
+            "Index": 52,
+            "Name": "张锴元",
+            "University": {
+                "Index": 350,
+                "Name": "同济大学",
+                "Code": "4131010247",
+                "Affiliation": "教育部",
+                "Province": "上海市",
+                "City": "上海市",
+                "Students": [
+                    {
+                        "Name": "李思佳",
+                        "Major": "工科实验班（智能化制造与先进材料类）"
+                    },
+                    {
+                        "Name": "张锴元",
+                        "Major": "工科试验班（信息类）"
+                    }
+                ]
+            },
+            "Major": "工科试验班（信息类）"
+        }
+    ],
+    "ByUniversity": [
+        {
+            "Index": 1,
+            "Name": "北京大学",
+            "Code": "4111010001",
+            "Affiliation": "教育部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "陈禹铭",
+                    "Major": "电子信息"
+                },
+                {
+                    "Name": "汤智荃",
+                    "Major": "经济学"
+                },
+                {
+                    "Name": "陈润材",
+                    "Major": "力学类"
+                },
+                {
+                    "Name": "梁子恒",
+                    "Major": "理科试验班类"
+                }
+            ]
+        },
+        {
+            "Index": 2,
+            "Name": "中国人民大学",
+            "Code": "4111010002",
+            "Affiliation": "教育部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "陈雅婷",
+                    "Major": "工商管理类"
+                }
+            ]
+        },
+        {
+            "Index": 3,
+            "Name": "清华大学",
+            "Code": "4111010003",
+            "Affiliation": "教育部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "吴佳坤",
+                    "Major": "机械"
+                },
+                {
+                    "Name": "王梓衡",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "刘海天",
+                    "Major": "计算机类"
+                }
+            ]
+        },
+        {
+            "Index": 6,
+            "Name": "北京航空航天大学",
+            "Code": "4111010006",
+            "Affiliation": "工业和信息化部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "邓少儒",
+                    "Major": "工科试验班"
+                },
+                {
+                    "Name": "陈立昆",
+                    "Major": "工科试验班"
+                },
+                {
+                    "Name": "任自祺",
+                    "Major": "数学与应用数学"
+                },
+                {
+                    "Name": "范耀炜",
+                    "Major": "空天力学"
+                }
+            ]
+        },
+        {
+            "Index": 13,
+            "Name": "北京邮电大学",
+            "Code": "4111010013",
+            "Affiliation": "教育部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "叶若愚",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "敖辰",
+                    "Major": "（元班）电子信息类"
+                }
+            ]
+        },
+        {
+            "Index": 24,
+            "Name": "北京师范大学",
+            "Code": "4111010027",
+            "Affiliation": "教育部",
+            "Province": "北京市",
+            "City": "北京市",
+            "Students": [
+                {
+                    "Name": "幸芷仪",
+                    "Major": "生物科学"
+                }
+            ]
+        },
+        {
+            "Index": 349,
+            "Name": "复旦大学",
+            "Code": "4131010246",
+            "Affiliation": "教育部",
+            "Province": "上海市",
+            "City": "上海市",
+            "Students": [
+                {
+                    "Name": "尹浩安",
+                    "Major": "工科试验班"
+                },
+                {
+                    "Name": "张弛",
+                    "Major": "工科试验班"
+                },
+                {
+                    "Name": "黄卓立",
+                    "Major": "微电子科学与工程（集成电路领军人才班）"
+                },
+                {
+                    "Name": "梁圣颂",
+                    "Major": "自然科学试验班"
+                },
+                {
+                    "Name": "胡舜涵",
+                    "Major": "自然科学试验班"
+                }
+            ]
+        },
+        {
+            "Index": 350,
+            "Name": "同济大学",
+            "Code": "4131010247",
+            "Affiliation": "教育部",
+            "Province": "上海市",
+            "City": "上海市",
+            "Students": [
+                {
+                    "Name": "李思佳",
+                    "Major": "工科实验班（智能化制造与先进材料类）"
+                },
+                {
+                    "Name": "张锴元",
+                    "Major": "工科试验班（信息类）"
+                }
+            ]
+        },
+        {
+            "Index": 351,
+            "Name": "上海交通大学",
+            "Code": "4131010248",
+            "Affiliation": "教育部",
+            "Province": "上海市",
+            "City": "上海市",
+            "Students": [
+                {
+                    "Name": "罗晨蕾",
+                    "Major": "工科实验班"
+                },
+                {
+                    "Name": "金浩源",
+                    "Major": "电子信息类（密西根学院）"
+                },
+                {
+                    "Name": "聂喆",
+                    "Major": "电子信息类（密西根学院）"
+                },
+                {
+                    "Name": "卢泰宇",
+                    "Major": "工科实验班"
+                },
+                {
+                    "Name": "张文珏",
+                    "Major": "电子信息类（密西根学院）"
+                },
+                {
+                    "Name": "吴禹曾国",
+                    "Major": "工科实验班"
+                },
+                {
+                    "Name": "刘述轩",
+                    "Major": "电子信息类（密西根学院）"
+                },
+                {
+                    "Name": "刘行远",
+                    "Major": "工科试验班（信息类）"
+                }
+            ]
+        },
+        {
+            "Index": 389,
+            "Name": "南京大学",
+            "Code": "4132010284",
+            "Affiliation": "教育部",
+            "Province": "江苏省",
+            "City": "南京市",
+            "Students": [
+                {
+                    "Name": "李树",
+                    "Major": "软件工程"
+                }
+            ]
+        },
+        {
+            "Index": 467,
+            "Name": "浙江大学",
+            "Code": "4133010335",
+            "Affiliation": "教育部",
+            "Province": "浙江省",
+            "City": "杭州市",
+            "Students": [
+                {
+                    "Name": "唐一菲",
+                    "Major": "医学院"
+                }
+            ]
+        },
+        {
+            "Index": 528,
+            "Name": "中国科学技术大学",
+            "Code": "4134010358",
+            "Affiliation": "中国科学院",
+            "Province": "安徽省",
+            "City": "合肥市",
+            "Students": [
+                {
+                    "Name": "骆沛荣",
+                    "Major": "数学系"
+                }
+            ]
+        },
+        {
+            "Index": 784,
+            "Name": "武汉大学",
+            "Code": "4142010486",
+            "Affiliation": "教育部",
+            "Province": "湖北省",
+            "City": "武汉市",
+            "Students": [
+                {
+                    "Name": "王华洋",
+                    "Major": "电子信息"
+                }
+            ]
+        },
+        {
+            "Index": 785,
+            "Name": "华中科技大学",
+            "Code": "4142010487",
+            "Affiliation": "教育部",
+            "Province": "湖北省",
+            "City": "武汉市",
+            "Students": [
+                {
+                    "Name": "吴子阳",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "杨子恒",
+                    "Major": "机械类"
+                },
+                {
+                    "Name": "杨凯文",
+                    "Major": "微电子科学与工程"
+                }
+            ]
+        },
+        {
+            "Index": 855,
+            "Name": "中南大学",
+            "Code": "4143010533",
+            "Affiliation": "教育部",
+            "Province": "湖南省",
+            "City": "长沙市",
+            "Students": [
+                {
+                    "Name": "周子潇",
+                    "Major": "（湘雅医学院）临床医学"
+                }
+            ]
+        },
+        {
+            "Index": 904,
+            "Name": "中山大学",
+            "Code": "4144010558",
+            "Affiliation": "教育部",
+            "Province": "广东省",
+            "City": "广州市",
+            "Students": [
+                {
+                    "Name": "万耀文",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "余文琪",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "庞舒文",
+                    "Major": "临床医学"
+                },
+                {
+                    "Name": "郑睿敏",
+                    "Major": "物理学类"
+                },
+                {
+                    "Name": "苏子淳",
+                    "Major": "计算机类"
+                },
+                {
+                    "Name": "许乐阳",
+                    "Major": "电子信息"
+                }
+            ]
+        },
+        {
+            "Index": 941,
+            "Name": "南方医科大学",
+            "Code": "4144012121",
+            "Affiliation": "广东省",
+            "Province": "广东省",
+            "City": "广州市",
+            "Students": [
+                {
+                    "Name": "苏丞",
+                    "Major": "临床医学"
+                }
+            ]
+        },
+        {
+            "Index": 968,
+            "Name": "香港中文大学（深圳）",
+            "Code": "4144016407",
+            "Affiliation": "广东省教育厅",
+            "Province": "广东省",
+            "City": "深圳市",
+            "Students": [
+                {
+                    "Name": "邢其亮",
+                    "Major": "计算机科学与技术"
+                }
+            ]
+        },
+        {
+            "Index": 1043,
+            "Name": "四川大学",
+            "Code": "4151010610",
+            "Affiliation": "教育部",
+            "Province": "四川省",
+            "City": "成都市",
+            "Students": [
+                {
+                    "Name": "祝毓岚",
+                    "Major": "口腔医学"
+                }
+            ]
+        },
+        {
+            "Index": 1162,
+            "Name": "西安交通大学",
+            "Code": "4161010698",
+            "Affiliation": "教育部",
+            "Province": "陕西省",
+            "City": "西安市",
+            "Students": [
+                {
+                    "Name": "孟繁蓉",
+                    "Major": "工科实验班"
+                }
+            ]
+        },
+        {
+            "Index": 1271,
+            "Name": "哈尔滨工业大学（深圳）",
+            "Code": "?",
+            "Affiliation": "广东省",
+            "Province": "广东省",
+            "City": "深圳市",
+            "Students": [
+                {
+                    "Name": "李明峰",
+                    "Major": "工科试验班（计算机类）"
+                },
+                {
+                    "Name": "粟雨欣",
+                    "Major": "工科试验班"
+                },
+                {
+                    "Name": "徐祖斌",
+                    "Major": "工科试验班-计算机电子通信类"
+                },
+                {
+                    "Name": "周坤烨",
+                    "Major": "建筑学"
+                }
+            ]
+        }
+    ]
+}
