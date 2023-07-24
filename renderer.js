@@ -1,4 +1,4 @@
-let urlStudentFile = "student.json"
+let urlStudentFile = "resources/data/student.json"
 
 let divButtonContainer = document.getElementById("button-container");
 let divStudentCardContainer = document.getElementById("div-student-card-collection");
@@ -34,7 +34,7 @@ fetch(urlStudentFile)
 // Functions
 function initialize(jsonStudentData) {
     univInfo = jsonStudentData["ByUniversity"];
-    for (i = 0; i < univInfo.length; i++) {
+    for (let i = 0; i < univInfo.length; i++) {
         for (j = 0; j < collectionMapArea.length; j++) {
             if (collectionMapArea[j].id == univInfo[i]["Province"]) {
                 if (collectionMapAreaClickable.indexOf(collectionMapArea[j]) == -1) {
@@ -47,7 +47,7 @@ function initialize(jsonStudentData) {
             }
         }
     }
-    for (i = 0; i < collectionMapAreaClickable.length; i++) {
+    for (let i = 0; i < collectionMapAreaClickable.length; i++) {
         var button = createMapAreaButton(collectionMapAreaClickable[i].id, collectionMapAreaClickable[i].id);
         collectionMapArea.push(button);
         divButtonContainer.appendChild(button);
@@ -73,7 +73,6 @@ function clearChosen() {
     }
 }
 
-whatthehell=0
 function handlePathClick(pathClicked) {
     clearChosen();
     pathClicked.setAttribute("class", "pathMapAreaChosen");
@@ -192,6 +191,37 @@ function createCard(studentDataPiece) {
     return newDivStudentCard;
 }
 
+// format: "ByUniversity" one
+function createCardBySimpleData(univData, studentName) {
+    // get the student info
+    studentInfo = {}
+    for (let i = 0; i < univData.Students.length; i ++) {
+        if (univData.Students[i].Name == studentName) {
+            studentInfo = univData.Students[i];
+            break;
+        }
+    }
+    studentInfo.University = univData;
+    
+    // create card
+    return createCard(studentInfo);
+}
+
+function createCardSetByUniversity(univData) {
+    var divUnivCardContainer = document.createElement("div");
+    divUnivCardContainer.setAttribute("class", "div-univ-card-container");
+
+    var newSpanUnivName = document.createElement("h4");
+    newSpanUnivName.innerHTML = univData.Name;
+    divUnivCardContainer.appendChild(newSpanUnivName);
+
+    for (let i = 0; i < univData.Students.length; i ++) {
+        var newCard = createCardBySimpleData(univData, univData.Students[i].Name);
+        divUnivCardContainer.appendChild(newCard);
+    }
+    return divUnivCardContainer;
+}
+
 function removeCards() {
     while (divStudentCardContainer.hasChildNodes()) {
         divStudentCardContainer.removeChild(divStudentCardContainer.firstChild);
@@ -200,80 +230,43 @@ function removeCards() {
 
 function showCardsByProvince(province) {
     removeCards();
+    let shownCityList = []
     //arrangedInfo = arrangeInfoByLocation(province);
-    for (i = 0; i < jsonData.ByStudent.length; i++) {
-        if (jsonData.ByStudent[i].University.Province == province) {
-            var card = createCard(jsonData.ByStudent[i]);
-            divStudentCardContainer.appendChild(card);
+    for (let i = 0; i < jsonData.ByUniversity.length; i++) {
+        if (jsonData.ByUniversity[i].Province == province) {
+            if (shownCityList.indexOf(jsonData.ByUniversity[i].City) == -1) {
+                shownCityList.push(jsonData.ByUniversity[i].City);
+                createCityInfoCard(jsonData.ByUniversity[i].City);
+            }
         }
     }
 }
 
 // TODO: finish the "sort by city" function
 
-function createCityInfoCard(cityInfo) {
+function createCityInfoCard(city) {
+    univList = []
+    for (let i = 0; i < jsonData.ByUniversity.length; i ++) {
+        if (city == jsonData.ByUniversity[i].City) {
+            univList.push(jsonData.ByUniversity[i]);
+        }
+    }
+
+    console.log(univList);
+
     var newDivCity = document.createElement("div");
     newDivCity.setAttribute("class", "div-city-container");
 
     // get city info
     var newSpanCityName = document.createElement("h3");
-    newSpanCityName.innerHTML = cityInfo.Name;
+    newSpanCityName.innerHTML = city;
     newDivCity.appendChild(newSpanCityName);
-
-    univList = cityInfo.University;
-    for (i = 0; i < univList.length; i++) {
-        // Univ card
-        var newDivUniv = document.createElement("div");
-        newDivUniv.setAttribute("class", "div-univ-container");
-        newDivUCity.appendChild(newDivUniv);
-
-        // Univ name
-        var newSpanUnivName = document.createElement("h4");
-        newSpanUnivName.innerHTML = univList[i].Name;
-        newDivUniv.appendChild(newSpanUnivName);
-
-        // Student card
-        for (j = 0; j < univList[i].Students.length; j ++) {
-            // get detailed student info
-            detailedStudentInfo = {};
-            for (k = 0; k < jsonData.ByStudent.length; k ++) {
-                if (jsonData.ByStudent[k].Name == univList[i].Students[j].Name) {
-                    detailedStudentInfo = jsonData.ByStudent[k];
-                    break;
-                }
-            }
-
-            // create student card
-            var newStudentCard = createCard(detailedStudentInfo);
-            newDivUniv.appendChild(newStudentCard);
-        }
+    for (let i = 0; i < univList.length; i++) {
+        console.log(i)
+        var newDivUnivCardContainer = createCardSetByUniversity(univList[i]);
+        newDivCity.appendChild(newDivUnivCardContainer);
+        console.log(i)
     }
     divStudentCardContainer.appendChild(newDivCity);
     return newDivCity;
-}
-
-function arrangeInfoByLocation(province) {
-    provinceData = []
-    for (i = 0; i < jsonData.ByUniversity.length; i++) {
-        if (jsonData.ByUniversity[i].Province == province) {
-            hasCity = false;
-            cityIndex = 0;
-            for (j = 0; j < provinceData.length; j++) {
-                if (provinceData[j].Name == jsonData.ByUniversity[i].City) {
-                    hasCity = true;
-                    cityIndex = j;
-                    break;
-                }
-            }
-            if (!hasCity) {
-                provinceData.push({
-                    Name: jsonData.ByUniversity[i].City,
-                    University: []
-                });
-                cityIndex = provinceData.length - 1;
-            }
-            provinceData[cityIndex].University.push(jsonData.ByUniversity[i]);
-        }
-    }
-    return provinceData;
 }

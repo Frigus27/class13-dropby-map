@@ -8,11 +8,11 @@ body {
 }
 
 .pathMapArea {
-    fill: antiquewhite;
+    fill: #E5E0FF;
 }
 
 .pathMapAreaDisabled {
-    fill: transparent;
+    fill: #FFF2F2;
 }
 
 .pathMapArea:hover {
@@ -20,7 +20,7 @@ body {
 }
 
 .pathMapAreaChosen {
-    fill: deepskyblue;
+    fill: #7286D3;
 }
 
 #svg-cn-map {
@@ -37,7 +37,7 @@ body {
     left: 0px;
     top: 0px;
     cursor: default;
-    background-color: #F5F5F5;
+    background-color: #FFF9F9;
 }
 
 #div-right-banner {
@@ -114,7 +114,7 @@ body {
     transform: translate(5%, 0%);
     position: relative;
     border-radius: 5%;
-    background-color: #F5F5F5;
+    background-color: #FFF9F9;
     width: 80%;
     padding-left: 5%;
     padding-right: 5%;
